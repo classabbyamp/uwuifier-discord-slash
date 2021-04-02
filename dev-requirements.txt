@@ -1,0 +1,6 @@
+mypy
+flake8
+setuptools
+wheel
+discord.py-stubs
+-r requirements.txt
